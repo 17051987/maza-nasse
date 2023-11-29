@@ -1,0 +1,17 @@
+// ==UserScript==
+// @name         New Userscript
+// @name         maza nasser
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  try to take over the world!
+// @author       You
+// @match        https://www.google.com/search?q=scripte+bls+espagne+alg%C3%A9rie&oq=S&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgYIAhAjGCcyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyDQgFEAAYgwEYsQMYgAQyEAgGEAAYgwEYsQMYgAQYigUyCggHEAAYsQMYgAQyEAgIEAAYgwEYsQMYgAQYigUyEwgJEC4YgwEYxwEYsQMY0QMYgATSAQk2NjYxajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:7dc1daa9,vid:QbPaRgSEv4M,st:0
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // Your code here...
+})();
